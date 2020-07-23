@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">proj2</string>
+
+    <string-array name="toppicksname">
+        <item>KOCHI</item>
+        <item>ALAPPUZHA</item>
+        <item>KUMARAKOM</item>
+        <item>KOVALAM</item>
+        <item>VARKALA</item>
+    </string-array>
+
+
+</resources>
